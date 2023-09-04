@@ -4,4 +4,4 @@ https://www.epson.co.id/Ink-Tank-Printers/L-Series/Epson-EcoTank-L3210/s/SPT_C11
 - Click Accept -> click amd64.deb or click i386.deb
 - after file downloaded, click kanan file > open software install
 - open terminal > type `sudo apt install lsb`
-
+- finish
